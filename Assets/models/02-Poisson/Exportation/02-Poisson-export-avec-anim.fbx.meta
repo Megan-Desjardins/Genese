@@ -63,7 +63,7 @@ ModelImporter:
     isReadable: 0
   meshes:
     lODScreenPercentages: []
-    globalScale: 1
+    globalScale: 5
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
@@ -124,82 +124,82 @@ ModelImporter:
       scale: {x: 1, y: 1, z: 1}
     - name: polySurface4
       parentName: 02-Poisson-export-avec-anim(Clone)
-      position: {x: -0.02692575, y: 0.018015409, z: -0.12361136}
+      position: {x: -0.0013462874, y: 0.00090077036, z: -0.0061805677}
       rotation: {x: -6.0702755e-17, y: 0.9999629, z: 6.0702755e-17, w: -0.008611724}
       scale: {x: 0.5071196, y: 0.5071196, z: 0.5071196}
     - name: joint1
       parentName: 02-Poisson-export-avec-anim(Clone)
-      position: {x: -0.015554548, y: 0.045143247, z: 0.06972411}
+      position: {x: -0.00077772734, y: 0.0022571622, z: 0.0034862054}
       rotation: {x: -0.019965982, y: 0.9954151, z: -0.0017768025, w: -0.09352553}
       scale: {x: 1.0000002, y: 1, z: 1.0000002}
     - name: joint2
       parentName: joint1
-      position: {x: -0.005865181, y: -1.7763568e-17, z: 0}
+      position: {x: -0.000293259, y: -8.881784e-19, z: 0}
       rotation: {x: 0.003427189, y: -0.014493533, z: -0.51591915, w: 0.85650784}
       scale: {x: 1.0000005, y: 1, z: 1.0000005}
     - name: joint3
       parentName: joint2
-      position: {x: -0.006206063, y: 8.881784e-18, z: 0}
+      position: {x: -0.00031030315, y: 4.440892e-19, z: 0}
       rotation: {x: -0.0063444176, y: -0.02628175, z: -0.00020404957, w: 0.9996345}
       scale: {x: 1.0000002, y: 0.99999994, z: 1.0000005}
     - name: joint4
       parentName: joint3
-      position: {x: -0.005292766, y: -1.9539925e-16, z: -4.4408918e-17}
+      position: {x: -0.00026463828, y: -9.769962e-18, z: -2.2204458e-18}
       rotation: {x: -0.00634342, y: -0.031701643, z: -0.00064863526, w: 0.9994771}
       scale: {x: 1.0000004, y: 1, z: 1.0000001}
     - name: joint5
       parentName: joint4
-      position: {x: -0.0057234988, y: 2.6645352e-17, z: -2.6645352e-17}
+      position: {x: -0.0002861749, y: 1.3322675e-18, z: -1.3322675e-18}
       rotation: {x: -0.006342542, y: -0.035775565, z: -0.0011863082, w: 0.9993391}
       scale: {x: 0.99999994, y: 1, z: 1.0000002}
     - name: joint6
       parentName: joint5
-      position: {x: -0.0059036217, y: 5.3290704e-17, z: 0}
+      position: {x: -0.00029518106, y: 2.664535e-18, z: 0}
       rotation: {x: -0.006343343, y: -0.03202044, z: -0.0014690018, w: 0.99946606}
       scale: {x: 1.0000008, y: 1, z: 1.0000007}
     - name: joint7
       parentName: joint6
-      position: {x: -0.005172608, y: -1.3322676e-16, z: -1.7763568e-17}
+      position: {x: -0.00025863037, y: -6.661337e-18, z: -8.881784e-19}
       rotation: {x: -0.016238552, y: -0.0568661, z: 0.38861308, w: 0.91950125}
       scale: {x: 1.0000005, y: 1.0000001, z: 1.0000006}
     - name: joint8
       parentName: joint7
-      position: {x: -0.006195156, y: -5.3290704e-17, z: -1.7763568e-17}
+      position: {x: -0.00030975777, y: -2.664535e-18, z: -8.881784e-19}
       rotation: {x: -0.005191082, y: -0.025646687, z: 0.109006785, w: 0.99369663}
       scale: {x: 1, y: 1, z: 1}
     - name: joint9
       parentName: joint8
-      position: {x: -0.005590116, y: -3.2862602e-16, z: -1.7763568e-17}
+      position: {x: -0.0002795058, y: -1.64313e-17, z: -8.881784e-19}
       rotation: {x: -0.006344185, y: 0.02753771, z: 0.0023165026, w: 0.99959797}
       scale: {x: 1, y: 1, z: 1}
     - name: joint10
       parentName: joint9
-      position: {x: -0.005853424, y: -1.3322676e-16, z: -2.6645352e-17}
+      position: {x: -0.00029267117, y: -6.661337e-18, z: -1.3322675e-18}
       rotation: {x: -0.0032744957, y: -0.017350718, z: 0.02211942, w: 0.9995994}
       scale: {x: 1, y: 1, z: 1}
     - name: joint11
       parentName: joint10
-      position: {x: -0.0058142017, y: -2.3092638e-16, z: -3.5527136e-17}
+      position: {x: -0.00029071007, y: -1.1546318e-17, z: -1.7763567e-18}
       rotation: {x: -0.0063272463, y: 0.07758906, z: 0.00851519, w: 0.996929}
       scale: {x: 1, y: 1, z: 1}
     - name: joint12
       parentName: joint11
-      position: {x: -0.0054626265, y: -2.220446e-16, z: -5.3290704e-17}
+      position: {x: -0.0002731313, y: -1.11022296e-17, z: -2.664535e-18}
       rotation: {x: -0.0063184225, y: 0.09344195, z: 0.011457067, w: 0.9955388}
       scale: {x: 1, y: 1, z: 1}
     - name: joint13
       parentName: joint12
-      position: {x: -0.00573423, y: -2.753353e-16, z: -1.7763568e-17}
+      position: {x: -0.00028671147, y: -1.37667645e-17, z: -8.881784e-19}
       rotation: {x: 0, y: -0, z: -0, w: 1}
       scale: {x: 1, y: 1, z: 1}
     - name: head_joint
       parentName: joint1
-      position: {x: 0.0043323045, y: 0.00033955532, z: 0.000018392539}
+      position: {x: 0.00021661521, y: 0.000016977765, z: 0.00000091962687}
       rotation: {x: 0.09391319, y: -0.58004856, z: 0.025856923, w: 0.8087369}
       scale: {x: 1.0000002, y: 0.99999994, z: 1.0000001}
     - name: head_end_joint
       parentName: head_joint
-      position: {x: 0.004421229, y: -0.0008846229, z: -0.012692754}
+      position: {x: 0.00022106143, y: -0.000044231143, z: -0.00063463766}
       rotation: {x: -0, y: -0, z: -0, w: 1}
       scale: {x: 0.99999994, y: 1, z: 1.0000001}
     armTwist: 0.5
@@ -209,7 +209,7 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 1
+    globalScale: 0.049999997
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 1
